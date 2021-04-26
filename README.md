@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+- Hi my name is miyu and my name means beauty and is Japanese.- I am currently learning the basics of html and css.
+😄 Pronouns: ...
+- Mimu, Tiny,
+ 🌱 I’m currently learning ...
+- web developement,htlm,css basics
+ 🔭 I’m currently working on ...
+- my first progect in github
+ 📫 How to reach me: ...
+  - khan Academy-MimuPanda, em@il id- miyu.gupta@gmail.com
+ - ⚡Fun fact: ...
+ I am an identicle twin or twin me,I have a youtube channel,In my spare time I like playing outside games with my twin.
 <!--
 **MiyuGupta/MiyuGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
